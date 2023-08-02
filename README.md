@@ -3,7 +3,7 @@
 1. Clone the project:
 
 ```
-git clone ...
+git clone https://github.com/dung204/todo-app-with-docker.git
 ```
 
 2. Build the frontend (the frontend uses Nginx to host static HTML, CSS, JS files):
